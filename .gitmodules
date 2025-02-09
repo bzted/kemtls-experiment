@@ -15,6 +15,7 @@
 [submodule "oqs-rs"]
 	path = oqs-rs
 	url = https://github.com/bzted/liboqs-rust.git
+	branch = main
 [submodule "secsidh"]
 	path = secsidh
 	url = https://github.com/bzted/secsidh.git
